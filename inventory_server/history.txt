@@ -1,0 +1,317 @@
+   77  touch test.txt
+   78  cd Desktop
+   79  touch test.txt
+   80  vim test.txt
+   81  vim
+   82  vi vim
+   83  vim
+   84  su sudhep
+   85  useradd sudheep
+   86  sudo useradd sudheep
+   87  su sudheep
+   88  cd Desktop
+   89  touch file3.txt
+   90  ll file3.txt
+   91  chmod 777 file3.txt
+   92  ll file3.txt
+   93  sudo user
+   94  cd ..
+   95  sudo user
+   96  sudo useradd sandheep
+   97  su sandheep
+   98  cd /
+   99  sudo useradd sandheep
+  100  cat /etc/passwd
+  101  sudo su sandheep
+  102  passwd sandheep
+  103  su sandheep
+  104  sudo passwd sandheep
+  105  su sandheep
+  106  chmod 777 sandheep
+  107  touch file.txt
+  108  clear
+  109  su sandheep
+  110  hack
+  111  hck
+  112  cd Desktop
+  113  cd ..
+  114  cd administrator
+  115  cd Desktop
+  116  cd home
+  117  cd desktop
+  118  cd Desktop
+  119  clear
+  120  cd /
+  121  cd home
+  122  cd Desktop
+  123  touch rag.txt
+  124  su sandheep
+  125  chmod 777 rag.txt
+  126  sudo userdel
+  127  sudo userdel sandheep
+  128  cat /etc/passwd
+  129  sudo userdel sudheep
+  130  cat /etc/passwd
+  131  clear
+  132  nano
+  133  nano script.sh
+  134  touch file5.txt
+  135  ls
+  136  nano script.sh
+  137  ./script.sh
+  138  chmod +x script.sh
+  139  ./script.sh
+  140  nano script1.sh
+  141  ./script1.sh
+  142  chmod +x script1.sh
+  143  ./script.sh
+  144  ./script1.sh
+  145  nano -n script1.sh
+  146  nano script1.sh
+  147  nano scrip.sh
+  148  nano script.sh
+  149  ./script.sh
+  150  nano script2.sh
+  151  chmod +x script2.sh
+  152  ./script2.sh\
+  153  ./script2.sh
+  154  nano script2.sh
+  155  ./script2.sh
+  156  nano script3.sh
+  157  chmod +x script3.sh
+  158  ./script3.sh
+  159  nano script3.sh
+  160  ./script3.sh
+  161  nano script3.sh
+  162  ./script3.sh
+  163  nano script3.sh
+  164  ./script3.sh
+  165  ps
+  166  top
+  167  down
+  168  up
+  169  lesf
+  170  left
+  171  bottom
+  172  incognito
+  173  terminal
+  174  nano script4.sh
+  175  clear
+  176  sudo apt update
+  177  sudo apt install git
+  178  git__version
+  179  git_version
+  180  git--version
+  181  git --version
+  182  history
+  183  cd Desktop
+  184  cd Cloud
+  185  ls
+  186  cd Demo cloud
+  187  cd Demo-Cloud
+  188  clear
+  189  history
+  190  cd Desktop
+  191  cd Cloud
+  192  ls
+  193  cd Demo-Cloud
+  194  git remote -v
+  195  git remote set-url orgin "https://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"
+  196  git remote set-url orgin "https://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github.com/Ranganathan07/Demo-Cloud.git"
+  197  git remote set-url orgin "https://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 github.com/Ranganathan07/Demo-Cloud.git"
+  198  git remote set-url orgin "https:://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github.com/Ranganathan07/Demo-Cloud.git"
+  199  clear
+ 94  cd ..
+   95  sudo user
+   96  sudo useradd sandheep
+   97  su sandheep
+   98  cd /
+   99  sudo useradd sandheep
+  100  cat /etc/passwd
+  101  sudo su sandheep
+  102  passwd sandheep
+  103  su sandheep
+  104  sudo passwd sandheep
+  105  su sandheep
+  106  chmod 777 sandheep
+  107  touch file.txt
+  108  clear
+  109  su sandheep
+  110  hack
+  111  hck
+  112  cd Desktop
+  113  cd ..
+  114  cd administrator
+  115  cd Desktop
+  116  cd home
+  117  cd desktop
+  118  cd Desktop
+  119  clear
+  120  cd /
+  121  cd home
+  122  cd Desktop
+  123  touch rag.txt
+  124  su sandheep
+  125  chmod 777 rag.txt
+  126  sudo userdel
+  127  sudo userdel sandheep
+  128  cat /etc/passwd
+  129  sudo userdel sudheep
+  130  cat /etc/passwd
+  131  clear
+  132  nano
+  133  nano script.sh
+  134  touch file5.txt
+  135  ls
+  136  nano script.sh
+  137  ./script.sh
+  138  chmod +x script.sh
+  139  ./script.sh
+  140  nano script1.sh
+  141  ./script1.sh
+  142  chmod +x script1.sh
+  143  ./script.sh
+  144  ./script1.sh
+  145  nano -n script1.sh
+  146  nano script1.sh
+  147  nano scrip.sh
+  148  nano script.sh
+  149  ./script.sh
+  150  nano script2.sh
+  151  chmod +x script2.sh
+  152  ./script2.sh\
+  153  ./script2.sh
+  154  nano script2.sh
+  155  ./script2.sh
+  156  nano script3.sh
+  157  chmod +x script3.sh
+  158  ./script3.sh
+  159  nano script3.sh
+  160  ./script3.sh
+  161  nano script3.sh
+  162  ./script3.sh
+  163  nano script3.sh
+  164  ./script3.sh
+  165  ps
+  166  top
+  167  down
+  168  up
+  169  lesf
+  170  left
+  171  bottom
+  172  incognito
+  173  terminal
+  174  nano script4.sh
+  175  clear
+  176  sudo apt update
+  177  sudo apt install git
+  178  git__version
+  179  git_version
+  180  git--version
+  181  git --version
+  182  history
+  183  cd Desktop
+  184  cd Cloud
+  185  ls
+  186  cd Demo cloud
+  187  cd Demo-Cloud
+  188  clear
+  189  history
+cd home
+  332  cd Desktop
+  333  cd ..
+  334  cd administrator
+  335  history
+  336  ps
+  337  nano file.txt
+  338  vim
+  339  nano file.txt
+  340  ./ file.txt
+  341  chmod +xfile.txt
+  342  cd Desktop
+  343  touch fii.txt
+  344  nano fii.txt
+  345  ./ fii.txt
+  346  chmod +x fii.txt
+  347  ./ fii.txt
+  348  nano new.txt
+  349  nano file.txt
+  350  nano fil.sh
+  351  chmod +x fil.sh
+  352  ./ fil.sh
+  353  nano fil.sh
+  354  ./ fil.sh
+  355  chmod +x fil.sh
+  356  ./ fil.sh
+  357  nano fil.sh
+  358  ./ fil.sh
+  359  chmod +x fil.sh
+  360  ./ fil.sh
+  361  nano fil.sh
+  362  ./ fil.sh
+  363  chmod +x fil.sh
+  364  ./ fil.sh
+  365  cd ff
+  366  ./ fil.sh
+  367  nano fil.sh
+  368  ./ fil.sh
+  369  nano fil.sh
+  370  ./ fil.sh
+  371  chmod +x fil.sh
+  372  ./ fil.sh
+  373  chmod +x
+  374  chmod +x fil.sh
+  375  ./ fil.sh
+  376  cd ..
+  377  ./ fil.sh
+  378  mkdir inventory
+  379  cd inventory
+  380  nano gg.sh
+  381  ./ gg.sh
+  382  ./: gg.sh
+  383  chmod +x gg.sh
+  384  ./ gg.sh
+  385  ./gg.sh
+  386  pwd
+  387  ls
+  388  nano gg.sh
+  389  ./gg.sh
+  390  nano gg.sh
+  391  ./script.sh
+  392  chmod +x script.sh
+  393  ./script.sh
+  394  nano script.sh
+  395  ./script.sh
+  396  nano script.sh
+  397  ./script.sh
+  398  nano script.sh
+  399  ll script.sh
+  400  history
+  401  ps
+  402  top
+  403  ll inventory_report.csv
+  404  cd inventory_server
+  405  cd ..
+  406  cd inventory_server
+  407  ll inventory_report.csv
+  408  grep fii.txt
+  409  grep file.txt
+  410  vim file.txt
+  411  cat file.txt
+  412  cat >> file.txt
+  413  history
+  414  cd Desktop
+  415  cat >> file.txt
+  416  cat -n file.txt
+  417  cat -l -n file.txt
+  418  ps
+  419  ll inventory_server
+  420  top
+  421  cat file.txt
+  422  cd inventory_server
+  423  find inventory_server/backup -name "inventory_report.csv"
+  424  find inventory_server backup -name "inventory_report.csv"
+  425  find  backup -name "inventory_report.csv"
+  426  history
+  427  touch history.txt
+  428  cat > history.txt

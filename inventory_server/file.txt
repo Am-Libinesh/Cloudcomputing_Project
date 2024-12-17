@@ -1,0 +1,5 @@
+hello, how are you
+welcome to cloud computing
+the task is test the ping and network verification
+file
+search for specific files or content
